@@ -1,0 +1,29 @@
+//META{"name":"Mayhem","description":"Title is a WIP, So is theme.","author":"Mayhem","version":"0.1","website":"http://discord.gg/8SEFX7", "source":"https://github.com/MayhemBill/BDStuff/Themes/Mayhem"}*//
+
+
+@import url("https://files.division25.xyz/CSS/BDStuff/Themes/Mayhem/base.css");
+
+:root {
+
+    --round: 50%;
+    --sglow: 10px 2px;
+  --version: "Mayhem 0.2";
+  --online: #43b581;
+  --offline: #747f8d;
+  --idle: #faa61a;
+  --stream: #593695;
+  --dnd: #f04747;
+  --invis: #1a36fa;
+  --main-color: linear-gradient(150deg, #43cea2, #ff0800);
+  --hover-color: #1c4faf;
+  --online: #43b581;
+  --idle: #faa61a;
+  --dnd: #f04747;
+  --offline: #636b75;
+  --invisible: #747f8d;
+  --streaming: #643da7;
+  --home-color: #eee;
+  --home-size: 24px;
+  --roundness: 0px;
+  --shadow: rgba(0,0,0,.4);
+}

@@ -241,7 +241,7 @@ div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^
 /* Titlebar */
 .wordmark-2iDDfm path {display:none;}
 .wordmark-2iDDfm:after {
-	content:'Mayhem 0.1';
+	content:'Mayhem $version';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
