@@ -16,6 +16,7 @@
  */
 
 /* Imports First */
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe'); /* Title Font */
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css"); /* Ellexides Tags */
 
 
@@ -235,6 +236,19 @@ div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^
   100% {
     transform: scale(1);
   }
+}
+
+/* Titlebar */
+.wordmark-2iDDfm path {display:none;}
+.wordmark-2iDDfm:after {
+	content:'Mayhem 0.1';
+	position: absolute !important;
+	left: 5px;
+	width: 100vw;
+	font-family:'ZCOOL KuaiLe';
+	color: rgba(255,255,255,0.8);
+	font-size: 19px;
+	font-weight:bold;
 }
 
 /* Transparency level */
