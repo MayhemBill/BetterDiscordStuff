@@ -19,6 +19,12 @@
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css"); /* Ellexides Tags */
 
 
+
+
+/**BACKGROUND**/
+.appMount-3VJmYg{background:url('https://images.alphacoders.com/898/898775.jpg') center/cover no-repeat}
+
+
 /* Beautiful Categories */
 div[class^=container-] div[class*=wrapper] > div[class*=name],#app-mount .membersGroup-v9BXpm,#app-mount .privateChannels-1nO12o header  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: var(--NameColour);opacity: 0.6;transition: .2s opacity ease-in-out}
 div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^=container-] div[class*=wrapper] > div[class*=name]:after,
@@ -229,4 +235,14 @@ div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^
   100% {
     transform: scale(1);
   }
+}
+
+/* Transparency level */
+.theme-dark .layers-3iHuyZ {
+    background: rgba(0,0,0,0.7)!important;
+}
+
+/* Transparency Level at settings */
+.da-app .standardSidebarView-3F1I7i {
+    background-color: rgba(0,0,0,0.3);
 }
